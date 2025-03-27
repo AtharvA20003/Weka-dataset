@@ -17,16 +17,15 @@
 S001, "John Doe", 18, Male, A, "1234 Elm St.", "555-1234", Math, 95, "johndoe@example.com", "555-6789", 90
 S002, "Jane Smith", 19, Female, B, "5678 Oak St.", "555-2345", English, 88, "janesmith@example.com", "555-7890", 85
 S003, "Jim Brown", 18, Male, C, "9101 Pine St.", "555-3456", Science, 75, "jimbrown@example.com", "555-8901", 72
-S004, "Emily Clark", 17, Female, B, "1122 Birch St.", "555-4567", History, 80, "emilyclark@example.com", "555-9012", 78
+S004, "Emily Clark", ?, Female, B, "1122 Birch St.", "555-4567", History, 80, "emilyclark@example.com", "555-9012", 78
 S005, "Michael White", 20, Male, A, "3344 Cedar St.", "555-5678", Math, 98, "michaelwhite@example.com", "555-0123", 92
 S006, "Sarah Green", 21, Female, D, "5566 Maple St.", "555-6789", English, 60, "sarahgreen@example.com", "555-1234", 65
-S007, "David Blue", 18, Male, B, "7788 Pine St.", "555-7890", Science, 85, "davidblue@example.com", "555-2345", 88
+S007, "David Blue", 18, Male, B, "7788 Pine St.", "555-7890", Science, 105, "davidblue@example.com", "555-2345", 88
 S008, "Linda Grey", 19, Female, A, "9900 Cedar St.", "555-8901", History, 90, "lindagrey@example.com", "555-3456", 94
-S009, "Kevin Black", 18, Male, C, "1234 Birch St.", "555-9012", Math, 70, "kevinblack@example.com", "555-4567", 74
+S009, "Kevin Black", 18, Male, C, "1234 Birch St.", "555-9012", Math, ?, "kevinblack@example.com", "555-4567", ?
 S010, "Rachel Yellow", 20, Female, B, "5678 Oak St.", "555-0123", English, 85, "rachelyellow@example.com", "555-5678", 87
 S011, "Brian Pink", 17, Male, A, "9101 Maple St.", "555-1234", Science, 98, "brianpink@example.com", "555-6789", 95
 S012, "Anna Red", 21, Female, D, "3344 Pine St.", "555-2345", History, 60, "annared@example.com", "555-7890", 63
-S013, "George Silver", 19, Male, C, "5566 Birch St.", "555-3456", Math, 75, "georgesilver@example.com", "555-8901", 78
-S014, "Diana Gold", 20, Female, B, "7788 Oak St.", "555-4567", English, 88, "dianagold@example.com", "555-9012", 85
+S013, "George Silver", 19, Male, C, "5566 Birch St.", "555-3456", Math, ?, "georgesilver@example.com", "555-8901", 78
+S014, "Diana Gold", 20, Female, B, "7788 Oak St.", "555-4567", English, 150, "dianagold@example.com", "555-9012", 85
 S015, "Alex Brown", 18, Male, A, "9900 Cedar St.", "555-5678", Science, 95, "alexbrown@example.com", "555-0123", 91
-
